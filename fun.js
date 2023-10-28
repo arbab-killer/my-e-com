@@ -48,3 +48,4 @@ function page(){
         // Add a click event listener to the button
         addToCartButton.addEventListener('click', addToCart);
         
+        
